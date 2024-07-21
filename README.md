@@ -5,3 +5,5 @@ This is my profile on github where I collect all my software and book projects I
 - 🔭 I’m currently working on a new version of ForcePAD, updated book on Python and an online C++ course.
 - 🌱 I’m currently learning more C++
 - 📫 How to reach me: DM on X (Twitter) @jonas_lindemann
+
+For even more information please see by [blog](https://jonaslindemann.github.io/). 
